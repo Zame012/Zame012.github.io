@@ -1,25 +1,8 @@
 body {
   padding-top: 70px;
 }
-
 .jumbotron {
   color: #2c3e50;
-}
-
-.navbar-inverse {
-  background: #2ce3e50;
-}
-
-.navbar-inverse .navbar-nav>li>a {
-  color: white;
-}
-
-.navbar-inverse .navbar-brand {
-  color: white;
-}
-.menu li:hover .sub-menu {
-	z-index:1;
-	opacity:1;
 }
 /* Nav bar css */
 .clearfix:after {
