@@ -16,7 +16,7 @@ body {
   padding-top: 20px;
   display: table-cell;
   vertical-align: middle;
-  /*max-width: 65em;*/
+  max-width: auto;
 }
 
 a {
