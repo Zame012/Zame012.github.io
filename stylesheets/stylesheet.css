@@ -5,6 +5,7 @@ html {
   display: table;
   margin: auto;
   text-align: center;
+  max-width: auto;
 }
 
 body {
@@ -16,7 +17,6 @@ body {
   padding-top: 20px;
   display: table-cell;
   vertical-align: middle;
-  max-width: auto;
 }
 
 a {
