@@ -5,7 +5,7 @@ html {
   display: table;
   margin: auto;
   text-align: center;
-  max-width: auto;
+  max-width: 50em;
 }
 
 body {
